@@ -1,0 +1,21 @@
+.details {
+  padding: 16px;
+  border: 2px solid #000;
+}
+
+.details p,
+.details__title {
+  margin: 0;
+}
+
+.details p {
+  margin-bottom: 4px;
+}
+
+.details__title {
+  margin-bottom: 8px;
+}
+
+.details_next {
+  margin-top: -2px;
+}
